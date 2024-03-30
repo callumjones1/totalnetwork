@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "https://scholar.google.com/citations?user\u003dzhDxZMMAAAAJ\u0026hl\u003den\u0026oi\u003dao",
+    "text": "Callum Jones"
+  },
+  "text": {
+    "more": "Total Australian far-right network, incorporating data from all time states. Nodes are coloured by ideology.",
+    "intro": "Total Australian far-right network. 2",
+    "title": "Total Australian far-right network"
+  },
+  "legend": {
+    "edgeLabel": "edge",
+    "colorLabel": "Ideology",
+    "nodeLabel": "Australian far-right organisations and individuals"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "organisation_classification",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
