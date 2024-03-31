@@ -8,8 +8,8 @@
     "text": "Callum Jones"
   },
   "text": {
-    "more": "Australian far-right organisations and individuals present in all time states. Network data from all four time states has been aggregated and visualised.\n\nNodes in the network represent Australian far-right organisations and individuals. \nAustralian far-right organisations are labelled, however, Australian far-right individuals are anonymised, and are represented by numbers.\nNodes in the network are coloured by their assigned ideology.\nNodes in the network are sized by degree centrality.\n\nPlease use the search bar below to directly search for an Australian far-right organisation by name.\nPlease feel free to explore the network by directly interacting with it. \nWhen you select a node in the network please refer to the pop-up panel on the right-hand side for details about that node, including centralities, modularity and all connected nodes.",
-    "intro": "Australian far-right organisations and individuals present in all time states.",
+    "more": "",
+    "intro": "Australian far-right organisations and individuals present in all time states. Please feel free to explore the network by directly interacting with it. \n You can use the search bar below to search for nodes by name. When you select a node in the network please refer to the pop-up panel on the right-hand side for details about that node, including its organisational form, ideology, centrality scores, modularity and all connected nodes.",
     "title": "Australian far-right total network"
   },
   "legend": {
