@@ -4,18 +4,18 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "https://scholar.google.com/citations?user\u003dzhDxZMMAAAAJ\u0026hl\u003den\u0026oi\u003dao",
+    "link": "",
     "text": "Callum Jones"
   },
   "text": {
-    "more": "Total Australian far-right network, incorporating data from all time states. Nodes are coloured by ideology.",
-    "intro": "Total Australian far-right network. 2",
-    "title": "Total Australian far-right network"
+    "more": "Australian far-right organisations and individuals present in all time states. Network data from all four time states has been aggregated and visualised.\n\nNodes in the network represent Australian far-right organisations and individuals. \nAustralian far-right organisations are labelled, however, Australian far-right individuals are anonymised, and are represented by numbers.\nNodes in the network are coloured by their assigned ideology.\nNodes in the network are sized by degree centrality.\n\nPlease use the search bar below to directly search for an Australian far-right organisation by name.\nPlease feel free to explore the network by directly interacting with it. \nWhen you select a node in the network please refer to the pop-up panel on the right-hand side for details about that node, including centralities, modularity and all connected nodes.",
+    "intro": "Australian far-right organisations and individuals present in all time states.",
+    "title": "Australian far-right total network"
   },
   "legend": {
-    "edgeLabel": "edge",
+    "edgeLabel": "Connection",
     "colorLabel": "Ideology",
-    "nodeLabel": "Australian far-right organisations and individuals"
+    "nodeLabel": "Far-right organisations and individuals"
   },
   "features": {
     "search": true,
@@ -23,7 +23,7 @@
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": true,
+    "groupByEdgeDirection": false,
     "imageAttribute": false
   },
   "sigma": {
