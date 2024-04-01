@@ -3,9 +3,9 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
-    "text": "Callum Jones"
+    "file": "https://callumjonesphd.wordpress.com/",
+    "link": "https://callumjonesphd.wordpress.com/",
+    "text": "Home"
   },
   "text": {
     "more": "",
